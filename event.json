@@ -1,0 +1,9 @@
+{
+  "angle":"124",
+  "rules":["X=-+Y","Y=Y--X+","Z=Y-+X"],
+  "id":"30e238db-8ab4-415a-8639-f6e8f208da95",
+  "type":"design",
+  "iterations":"5",
+  "axiom":"YX-",
+  "g_commands": "Y--X+---+Y+---+Y--X++---+Y--X+---+Y++---+Y--X+---+Y+---+Y--X+++-+Y--X+---+Y+---+Y--X++---+Y--X+---+Y++-"
+}
